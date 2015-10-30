@@ -14,7 +14,11 @@ Mario
 I passed in :back. It isnt a path and does not need a path because it just has to go back to the page that issued the request.
 
 # Question 5: Explain how putting this line "flash[:error] = @pokemon.errors.full_messages.to_sentence" shows error messages on your form.
+app/views/layouts/application.html.erb renders layouts/messages which shows the error messages
 
 # Give us feedback on the project and decal below!
+Good decal. Learning a lot and great idea to webcast lectures and post slides.
 
 # Extra credit: Link your Heroku deployed app
+
+https://github.com/frankyguerrero/proj1
